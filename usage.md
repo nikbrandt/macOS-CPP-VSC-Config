@@ -3,7 +3,7 @@ Oi! Welcome to the janky VSC setup.
 ## Compiling
 
  - To compile the current file: `Cmd + Shift + B`
- - To compile all .cpp files in the directory of the currently selected file: `Cmd + T` and then `Enter` as long as "build dir files" is selected
+ - To compile all .cpp files in the directory of the currently selected file: `Cmd + T` and select "build dir files"
 
  ## Terminal Navigation
  - Focus/unfocus terminal: `Ctrl + \``
@@ -21,3 +21,6 @@ Oi! Welcome to the janky VSC setup.
  - ...etc
  - Move right a tab: `Cmd + Alt + ->`
  - Move left a tab: `Cmd + Alt + <-`
+
+ ## Other VSC things
+ - Command palette: `Ctrl + Shift + P`
