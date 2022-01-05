@@ -23,4 +23,4 @@ Oi! Welcome to the janky VSC setup.
  - Move left a tab: `Cmd + Alt + <-`
 
  ## Other VSC things
- - Command palette: `Ctrl + Shift + P`
+ - Command palette: `Cmd + Shift + P`
