@@ -16,6 +16,8 @@ And you're good! If you'd like to set up some keybinds like those I have, run `C
  - **Terminal: Focus Next Terminal Group** (set to `Ctrl + Tab`) – allows for easy terminal switching
  - **Terminal: Forcus Previous Terminal Group** (set to `Ctrl + Shift + Tab`) – same as above, in reverse
 
+\* If you have an m1 Mac, install the [CodeLLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb) plugin for debugging support.
+
 ### Usage
 
 See [usage.md](./usage.md).

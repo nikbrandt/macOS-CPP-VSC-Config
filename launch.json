@@ -5,7 +5,7 @@
     "version": "0.2.0",
     "configurations": [
       {
-        "name": "clang++ - Debug active file",
+        "name": "clang++ (Intel) - Debug active file",
         "type": "cppdbg",
         "request": "launch",
         "program": "${fileDirname}/${fileBasenameNoExtension}",
@@ -16,6 +16,15 @@
         "externalConsole": true,
         "MIMode": "lldb",
         // "preLaunchTask": "C/C++: clang++ build active file"
+      },
+      {
+        "name": "LLDB (ARM) - Debug active file",
+        "type": "lldb",
+        "request": "launch",
+        "program": "${fileDirname}/${fileBasenameNoExtension}",
+        "args": [],
+        "cwd": "${fileDirname}",
+        "externalConsole": true
       }
     ]
   }
