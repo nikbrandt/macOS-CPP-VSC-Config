@@ -25,6 +25,15 @@
         "args": [],
         "cwd": "${fileDirname}",
         "externalConsole": true
+      },
+      {
+        "name": "LLDB (ARM) - Debug SuperPeachSisters",
+        "type": "lldb",
+        "request": "launch",
+        "program": "${fileDirname}/SuperPeachSisters",
+        "args": [],
+        "cwd": "${fileDirname}",
+        "externalConsole": true
       }
     ]
   }

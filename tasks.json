@@ -28,7 +28,7 @@
 			"label": "C/C++: clang++ build dir files",
 			"command": "${workspaceFolder}/.vscode/buildAllCPP.sh",
 			"args": [
-				"${fileBasenameNoExtension}"
+				"main"
 			],
 			"options": {
 				"cwd": "${fileDirname}"

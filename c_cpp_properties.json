@@ -3,7 +3,8 @@
         {
             "name": "Mac",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/**",
+                "/usr/X11/include/GL"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/clang",

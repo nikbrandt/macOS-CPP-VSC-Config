@@ -1,1 +1,1 @@
-/usr/bin/clang++ -g *.cpp -o $1 -std=c++11
+/usr/bin/clang++ -O3 *.cpp -o $1 -std=c++17 -Wchar-subscripts
